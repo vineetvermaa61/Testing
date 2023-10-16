@@ -23,7 +23,7 @@ public:
 //          4 6 17
 //          15
 
-// INSERTION:
+// INSERTION in BST:
 Node *insertIntoBST(Node *root, int data)
 {
     if (root == NULL)
